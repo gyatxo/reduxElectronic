@@ -25,7 +25,7 @@ const fetchProduct = async () =>{
 
   useEffect(()=>{
   fetchProduct()
-  },[])
+  })
 
 
       return (
