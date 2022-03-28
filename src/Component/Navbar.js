@@ -12,7 +12,6 @@ export default function Navbar() {
       <nav className="navbar ">
         <div className="container">
           <Link to='/' className="navbar-brand">Electronics</Link>
-          <Link to='product' className="navbar-brand">ProductDetails</Link>
        
             <ul className="navbar-list">
               <Link to='/'><li>Home</li></Link>
